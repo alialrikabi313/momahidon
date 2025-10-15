@@ -1,0 +1,49 @@
+name: momahidon
+description: "A new Flutter project."
+
+version: 3.0.0+3
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core:
+  firebase_auth:
+  share_plus:
+  firebase_storage:
+  cloud_firestore:
+  gallery_saver_plus:
+  permission_handler:
+  dio:
+  path_provider:
+  device_info_plus:
+  shared_preferences:
+  url_launcher:
+  cached_network_image:
+  smooth_page_indicator:
+  flutter_cache_manager:
+  google_fonts:
+
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+  adaptive_icon_background: '#ffffff'
+  adaptive_icon_foreground: "assets/icon.png"
+
+
+  flutter_lints: ^3.0.0
+
+
+  assets:
+    - assets/
+

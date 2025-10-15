@@ -1,0 +1,2 @@
+C:/Users/msi/StudioProjects/momahidon/android/app/.cxx/RelWithDebInfo/2c2l5x5s/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/msi/StudioProjects/momahidon/android/app/.cxx/RelWithDebInfo/2c2l5x5s/armeabi-v7a/CMakeFiles/rebuild_cache.dir
