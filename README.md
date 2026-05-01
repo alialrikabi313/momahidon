@@ -1,16 +1,67 @@
-# momahidon
+# الممهدون (Momahidon)
 
-A new Flutter project.
+> Flutter mobile application delivering structured Shia Islamic content with a focus on Mahdawi (المهدوية) themes, designed for Arabic-speaking users.
 
-## Getting Started
+[![Google Play](https://img.shields.io/badge/Google_Play-Live-34A853?logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Ali+Al-rikabi313)
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📖 **Curated Mahdawi content** — articles, supplications, and structured chapters
+- 🔍 **Searchable Arabic content** with fast indexing
+- 🌙 **Light and dark themes** optimized for long reading sessions
+- 📱 **Native RTL Arabic experience** end-to-end
+- 💾 **Offline access** to the full content library
+- 🔔 Local notification reminders for daily readings
+- 📤 Share, bookmark, and copy any passage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Framework | Flutter 3.x / Dart |
+| State Management | Provider |
+| Storage | Hive / SharedPreferences |
+| Localization | Arabic-first, RTL UI |
+| Distribution | Google Play Console |
+
+---
+
+## 📦 Getting Started
+
+```bash
+git clone https://github.com/alialrikabi313/momahidon.git
+cd momahidon
+flutter pub get
+flutter run
+```
+
+**Requirements:** Flutter SDK 3.x, Dart 3.x, Android Studio / Xcode.
+
+---
+
+## 📲 Live App
+
+This application is **published and live on Google Play**.
+
+[**View on Google Play →**](https://play.google.com/store/apps/developer?id=Ali+Al-rikabi313)
+
+---
+
+## 📝 License
+
+Released under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+**Ali Hashim Al-Rikabi** — Flutter & Python developer based in Iraq 🇮🇶
+
+[GitHub](https://github.com/alialrikabi313) · [Google Play Developer](https://play.google.com/store/apps/developer?id=Ali+Al-rikabi313)
